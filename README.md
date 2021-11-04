@@ -14,7 +14,7 @@ sudo apt update && sudo apt upgrade -y && sudo apt install python-tk python-imag
 
 # for Arch Linux/Manjaro/EndeavourOS :
 
-sudo pacman -Syyu && sudo pacman -S tk --noconfirm
+sudo pacman -Syyu --noconfirm && sudo pacman -S tk --noconfirm
 
 # for RHEL/Fedora :
 
