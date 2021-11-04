@@ -1,11 +1,11 @@
 # carre-click
-# fight game code in scratch with Tkinter library from Python language
+#fight game code in scratch with Tkinter library from Python language
 
-# for run the game; run with python3 terminal or command
+#for run the game; run with python3 terminal or command
 
-# and if you're on Linux; you can run it with the "open.sh"
+#and if you're on Linux; you can run it with the "open.sh"
 
-# before run it you must install the depedences of this program
+#before run it you must install the depedences of this program
 
 # for Debian/Ubutnu/Linux Mint:
 
